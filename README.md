@@ -2,10 +2,9 @@
 font-size: 3.5ch">
 
 # Implementing Shared Files Between Two Processes
-## Course: Operating System
+## Course: Operating Systems
 
 By Yasir Hussain
-
 
 ## Introduction
 
